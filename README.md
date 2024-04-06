@@ -1,5 +1,7 @@
 # TensorFlow.js Fashion MNIST Classifier
 
+![Project landing page](https://onedrive.live.com/embed?resid=4B1C8510CEF67D18%219601&authkey=%21ACVjqT_iZ3x21Ek&width=1917&height=1028)
+
 This project demonstrates a web application built with TensorFlow.js that classifies clothing items from the Fashion MNIST dataset. The application utilizes a Convolutional Neural Network (CNN) trained directly in the browser to predict the type of clothing displayed in a 28x28 pixel grayscale image.
 
 ## Features
@@ -8,7 +10,7 @@ This project demonstrates a web application built with TensorFlow.js that classi
 - **Browser-Based Training:** The model training process occurs within the browser environment using TensorFlow.js, allowing users to witness the learning process in real-time.
 - **Real-Time Prediction:** After training, the application provides real-time predictions on new images, classifying them into categories like T-shirt, Trouser, Dress, etc.
 - **Visual Feedback:** The prediction result is displayed on the screen, with color-coded feedback (green for correct, red for wrong) to indicate the model's accuracy.
-- **Interactive Control:**Users can adjust the interval between classifications using a slider to control the speed of the prediction process.
+- **Interactive Control:** Users can adjust the interval between classifications using a slider to control the speed of the prediction process.
 
 ## Technologies
 
