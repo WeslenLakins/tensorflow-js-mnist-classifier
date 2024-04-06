@@ -20,17 +20,13 @@ This project demonstrates a web application built with TensorFlow.js that classi
 
 ## Getting Started
 
-- **Clone the repository:**
+1. **Clone the repository:** 
 
-``` git
+`git clone https://github.com/WeslenLakins/tensorflow-js-mnist-classifier`
 
-git clone https://github.com/[your_username]/fashion-mnist-classifier.git
+2. **Open `index.html` in your web browser.**
 
-```
-
-- **Open `index.html` in your web browser.**
-
-The application will automatically start training the model. Please be patient as this process may take around 5 minutes depending on your hardware. Once training is complete, the application will begin classifying images and displaying the predictions with visual feedback.
+*The application will automatically start training the model. Please be patient as this process may take around 5 minutes depending on your hardware. Once training is complete, the application will begin classifying images and displaying the predictions with visual feedback.*
 
 ## Customization
 
